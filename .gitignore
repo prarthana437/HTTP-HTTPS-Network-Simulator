@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.o
+*.dll
+
+# Build and compiler tools
+w64devkit/
+raylib/
+
+# Temporary files
+tempCodeRunnerFile.c
+
+# IDE and system files
+.vscode/
+.DS_Store
+Thumbs.db
